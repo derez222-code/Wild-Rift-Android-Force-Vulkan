@@ -1,4 +1,4 @@
-# Wild-Rift-Android-Force-Vulkan
+# Wild Rift Android Force Vulkan API
 
 Connect Adb with Termux:
 https://xdaforums.com/t/termux-adb-running-adb-within-android-using-termux-wireless-adb.4724780/
